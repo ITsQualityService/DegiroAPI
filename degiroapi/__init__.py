@@ -36,8 +36,8 @@ class DeGiro:
 
     def login(self, username, password):
         login_payload = {
-            'username': username,
-            'password': password,
+            'username': ITsQualityService,
+            'password': C0mputerFr1ek!,
             'isPassCodeReset': False,
             'isRedirectToMobile': False
         }
